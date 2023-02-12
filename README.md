@@ -1,6 +1,6 @@
 ### Ryan Barnett
 
-I'm an Engineer Manager at the Washington Post working on a digital experience platform.
+I'm an Engineer Manager at the Washington Post working on a digital experience platform for Arc XP.
 
 
 - 🔭 focused on transforming agriculture with data-driven solutions
