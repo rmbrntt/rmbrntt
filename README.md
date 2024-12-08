@@ -1,21 +1,11 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rmbrntt/rmbrntt/blob/main/Ryan-Barnett-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rmbrntt/rmbrntt/blob/main/Ryan-Barnett-light.png">
-    <img alt="Shows name of Ryan Barnet in light mode and in dark mode." src=https://github.com/rmbrntt/rmbrntt/blob/main/Ryan-Barnett-light.png">
-  </picture>
-</p>
+# Hi there 🌌 🧠 ✨ 
 
-Things
----
-- 👨‍💻 Shipping (mostly) with `.js|.ts`
-- 🔭 Focused on delightful customer experiences
-- 🌱 Learning about offline first, CRDTs, and central sync patterns 🤔💡
-- 💬 Ask me about farming and ag-tech 👨‍🌾 🚜 🌾
+Building systems that enhance human experience. Interested in patterns, distributed intelligence, and elegant solutions.
 
+## Things
+- ⚡ Building distributed systems that scale
+- 🌊 Working on emergent intelligence
+- 🔮 Interested in knowledge systems
 
-<!--
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+[ryanbarnett.dev](https://ryanbarnett.dev) • [ryan@barnett.io](mailto:ryan@barnett.io) • [LinkedIn](https://linkedin.com/in/ryanmbarnett)
